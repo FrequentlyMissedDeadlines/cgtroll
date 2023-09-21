@@ -1,5 +1,5 @@
-[![Build](https://github.com/FrequentlyMissedDeadlines/cgtroll/actions/workflows/python-package.yml/badge.svg)](https://github.com/FrequentlyMissedDeadlines/cgtroll/actions/workflows/python-package.yml)
-[![Publish](https://github.com/FrequentlyMissedDeadlines/cgtroll/actions/workflows/python-publish.yml/badge.svg)](https://github.com/FrequentlyMissedDeadlines/cgtroll/actions/workflows/python-publish.yml)
+[![Build](https://github.com/FrequentlyMissedDeadlines/cgtroll/actions/workflows/package.yml/badge.svg)](https://github.com/FrequentlyMissedDeadlines/cgtroll/actions/workflows/package.yml)
+[![Publish](https://github.com/FrequentlyMissedDeadlines/cgtroll/actions/workflows/publish.yml/badge.svg)](https://github.com/FrequentlyMissedDeadlines/cgtroll/actions/workflows/publish.yml)
 [![Version](https://img.shields.io/pypi/v/cgtroll)](https://pypi.org/project/cgtroll)
 [![Version](https://img.shields.io/pypi/pyversions/cgtroll)](https://pypi.org/project/cgtroll)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
